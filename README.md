@@ -5,7 +5,7 @@ Webpage-Auto-Refresher
 Browser Extension. Automatically refreshes a webpage every 3 seconds.
 
 ### DESCRIPTION
-After you add this browser extension to your browser, it's all set! Open a webpage and click the extension once, then it will refresh the webpage every 3 seconds. (You can change this time by editing the manifest.json file.) You do not need to stay on that webpage; you can open a new webpage and start doing your other work. To stop it from working, you can click the extension again. This extension worked just fine with Google Chrome, Microsoft Edge, Mozilla Firefox, Brave, and Opera browsers. Remember: this can't refresh more than one webpage at once, but you can easily bypass this by opening more windows. I created this extension mainly for collecting GitHub profile views, which was really fun, but you can use this for any purpose you have. Have a good one!
+After you add this browser extension to your browser, it's all set! Open a webpage and click the extension once, then it will refresh the webpage every 3 seconds. (You can change this time by editing the manifest.json file.) You do not need to stay on that webpage; you can open a new webpage and start doing your other work. To stop it from working, you can click the extension again. This extension worked just fine with Google Chrome, Microsoft Edge, Mozilla Firefox, Brave, and Opera browsers. Remember: this can't refresh more than one webpage at once, but you can easily bypass this by using multiple different browsers. I created this extension mainly for collecting GitHub profile views, which was really fun, but you can use this for any purpose you have. Have a good one!
 
 ### HOW TO USE
 With Google Chrome, Microsoft Edge, Brave, and Opera browsers:
